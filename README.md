@@ -7,4 +7,5 @@
 In this image, a 3D circuit design example of the same circuit is shown.
 ![clock_3D](https://user-images.githubusercontent.com/60549309/200054588-16fd019f-a496-4cde-9626-a59c6546e490.png)
 
-
+Port multiplexing is an important case in microcontroller circuit desing. In some cases, a lot of work has to be done with a microcontroller with a small number of ports. In the example below, a multi-communication application example is shown with the MCP23S17 port expansion IC, which communicates with the PIC12F1840 via SPI serial communication protocol.
+![PIC12F1840 MULTISLAVE](https://user-images.githubusercontent.com/60549309/200058609-cde2a9c1-e0e0-4fa7-bc6c-1f0da82fb9b6.png)
